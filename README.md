@@ -32,12 +32,11 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 
 
 1. `yelp_business.csv`: This file contains information about businesses on the Yelp platform, including their ID, name, address, latitude and longitude, star rating, categories, and city.
-2. `yelp_business_attributes.csv`: This file contains attributes of businesses, such as whether they offer Wi-Fi or have a parking lot.
-3. `yelp_business_hours.csv`: This file contains information about the hours of operation of businesses, including the opening and closing times for each day of the week.
-4. `yelp_checkin.csv`: This file contains check-in information for businesses, such as the time and date when users check in.
-5. `yelp_review.csv`: This file contains reviews of businesses, including the user ID, business ID, rating, review text, and date of the review.
-6. `yelp_tip.csv`: This file contains tips and suggestions from users about businesses, such as recommended dishes or things to watch out for.
-7. `yelp_user.csv`: This file contains information about Yelp users, including their ID, name, registration time, and average rating.
+2. `yelp_business_hours.csv`: This file contains information about the hours of operation of businesses, including the opening and closing times for each day of the week.
+3. `yelp_checkin.csv`: This file contains check-in information for businesses, such as the time and date when users check in.
+4. `yelp_review.csv`: This file contains reviews of businesses, including the user ID, business ID, rating, review text, and date of the review.
+5. `yelp_tip.csv`: This file contains tips and suggestions from users about businesses, such as recommended dishes or things to watch out for.
+6. `yelp_user.csv`: This file contains information about Yelp users, including their ID, name, registration time, and average rating.
 
 ---
 
